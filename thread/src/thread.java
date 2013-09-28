@@ -15,5 +15,6 @@ public static void main(String[] args) {
 			System.out.print(e.getMessage());
 		}
 	}
+	System.out.println("test");
 }
 }
